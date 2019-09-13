@@ -1,0 +1,57 @@
+---
+layout: default
+id: overview
+nav: true
+nav-order: 1
+title: Ein Kosmos voller Sehnsuchtsorte
+
+banner:
+  title: Griechenland
+  title-sub: Ein Kosmos voller Sehnsuchtsorte
+  parallax: --left
+
+nav-title: Übersicht
+intro: "Malerische Inselwelten, antike Kulturschätze, pittoreske Tavernen – die Heimat der Götter ist seit jeher ein Garant für mediterrane Sternstunden. Erliegen Sie dem himmlisch hellenischen Mix aus azurblauen Buchten und jahrtausendealter Geschichte, bestaunen Sie sich olympische Heiligtümern und verlieben Sie sich zwischen strahlend weißen Fischerdörfern und farbenfrohen Tauchrevieren in Ihren ganz persönlichen Traumstrand. Willkommen in Griechenland, einem Kosmos voller landschaftlicher, kultureller und kulinarischer&nbsp;Sehnsuchtsorte. "
+
+
+
+---
+
+
+
+<div class=" vpad--xxl bv-parallax bv-shadow-inset" style="background-image: url('{{site.img}}/content/bg-intro.jpg');">
+  <div class="container">
+    <div class="width width--xl text--center text--normal text--xxl text--white bv-mob-left" >
+      <p>{{page.intro}}</p>
+    </div>
+  </div>
+</div>
+
+
+
+<!---- Regions ----->
+
+
+<div class="container vpad--xxl">
+
+  {% assign destinations = site.html_pages | where: 'content-pages', 'true'  | sort:'nav-order' %}
+
+
+  {% for destination in destinations %}
+
+
+  <div class="bob  {% cycle '', 'bob--swap' %} ">
+    <div class="bob__img">
+      <a href="{{site.baseurl}}{{destination.url}}" id="tracking-nikon-{{feature.id}}-image" class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/content/overview/bg-{{destination.id}}.jpg');" ></a>
+    </div>
+    <div class="bob__text">
+      <h3 class="sub-title sub-title--lg ">{{destination.title}}</h3>
+      <p class="text--md">{{destination.intro}}</p>
+      <div class="space--lg"></div>
+      <a href="{{site.baseurl}}{{destination.url}}" class="btn btn--g-blue" >Jetzt entdecken</a>
+    </div>
+  </div>
+
+  {% endfor %}
+
+</div>

@@ -1,0 +1,150 @@
+
+
+- id: one
+  title: Strände
+  page: straende
+  img: bg-img1
+  description: "Ob flach abfallende Familienstrände, von Meltemi-Brisen verwöhnte Surfspots oder exklusive Resorts mit Privatstrand – machen Sie sich auf einen unvergesslichen Strandurlaub gefasst. Auf Korfu kultiviert ausspannen wie Kaiserin Sisi, Jetset-Beachlife auf Mykonos oder Schnorcheln auf Thassos: Sie entscheiden. Neben dem legendären Navagio Beach auf Zakynthos wartet auch der Red Beach auf Santorin mit surrealer Kulisse und steil aufragenden Klippen auf. Die weitläufige Mirabello Bucht auf Kreta ist wie geschaffen für eine antike Auszeit vom&nbsp;Alltag."
+
+  pois:
+
+    title:
+    items:
+
+      - id: 1-1
+        title: Elia (Mykonos)
+        description-short: "Bekannt als Ibiza Griechenlands gehört Mykonos zu den exklusivsten"
+        description: "Bekannt als Ibiza Griechenlands gehört Mykonos zu den exklusivsten Trauminseln im Ägäischen Meer. Etwa 10 km von der Inselhauptstadt entfernt, bietet der Strand von Elia  glamouröse Entschleunigung. Goldener Sand, kosmopolitisches Laisser-faire und das mit erstklassiger Gastronomie und lauschigen Sonnenliegen bespielte Beachlife ziehen Locals und weit gereiste Prominenz gleichermaßen an. Wer die Nacht mit housigen Beats zum Tage machen will, ist im nahegelegenen Super Paradise Beach Club an der richtigen Strandadresse.  "
+
+      - id: 1-2
+        title: Roter Strand (Santorini)
+        description: "Atemberaubend vulkanisch präsentieren sich die Küsten und Strände des Archipels von Santorin. Auf Steilküsten thronende Orte voller verwinkelter Gassen und strahlend blauer Kuppeln versprechen postkartenverdächtige Fotomotive. Ebenso der einzigartig urwüchsige Red Beach mit seinem karminrotem Felsvorhang, der an der Südküste der Hauptinsel Thira für Tagträume sorgt. Das archäologische Erbe von Akrotiri lädt nach dem Baden zu geschichtsträchtigen Erkundungen ein, während der Vlychada-Strand mit naturverbundener Skyline lockt."
+
+      - id: 1-3
+        title: Aliki Strand (Thassos)
+        description: "Auf Thassos im Thrakischen Meer haben Strandurlauber sprichwörtlich die Ruhe weg. Umgeben von maritimen Nationalparks, makedonischer Macchia und der Mönchsrepublik Athos fällt das Loslassen vom Alltag nicht schwer – beim Flanieren durch den Hafen von Limenas, beeindruckenden Bergwanderungen rund um Potamia oder kristallklaren Badefreuden am Aliki Beach, der nicht ohne Grund zu den schönsten Stränden der nördlichen Ägäis zählt. "
+
+      - id: 1-4
+        title: Elounda (Kreta)
+        description: "Im Nordosten von Kreta lockt der malerische Golf von Mirabello mit allerlei antiken Highlights sowie exquisiter Strandauswahl. Mit der Blauen Flagge für Wasserqualität, Sauberkeit und Infrastruktur ausgezeichnet, lädt der kleine aber feine Stadtstrand von Elounda nach Spaziergängen im Hafen zum Abkühlen ein. Am nördlichen Ende der Bucht gewährt der Plaka Beach faszinierende Ausblicke auf das unbewohnte Eiland Spinalonga. Die vorgelagerte Halbinsel bietet einsame Naturstrände in kretischer&nbsp;Abgeschiedenheit. "
+
+      - id: 1-5
+        title: Sidari (Korfu)
+        description: "Schon Kaiserin Sisi wusste um die zeitlose Schönheit von Korfu. Ein Meer aus duftenden Olivenhainen, zauberhaften Grotten, venezianischen Villen und dazwischen paradiesische Strände. Das Besondere an der Küste von Sidari im Norden von Korfu sind die schmalen und kleinen Buchten, die sich wie Perlen am Ionischen Meer aneinanderreihen. Einer davon wird eine besonders romantische Eigenschaft zugeschrieben – Verliebte, die den knapp 20 Meter langen Canal d’Amour durchschwimmen, sollen sich einer Legende bald das Jawort&nbsp;geben."
+
+
+################################################################################
+
+
+- id: two
+  title: "Wandern"
+  page: straende
+  img: bg-img2
+  description: "Bei so viel Inselpracht kann man schon mal aus dem Auge verlieren, dass Griechenland ein wahres Wanderparadies ist. Mit über 70 Prozent Gebirgsanteil bietet nicht nur das Festland erstklassige Voraussetzungen für abwechslungsreiche Trekking-Touren durch zerklüftete Schluchten, maritime Nationalparks und alpine Gipfelwelten. Auch auf den Inseln der Archipele dürfen sich Aktivurlauber über zertifizierte Wanderwege und Panorama-Stopps freuen. Besteigen Sie den Olymp, erkunden Sie die Peloponnes auf dem Menalon Trail oder entdecken Sie inmitten des Pindos-Gebirges eine der tiefsten Schluchten der&nbsp;Welt."
+
+  pois:
+
+    title:
+    items:
+
+      - id: 2-1
+        title: Samaria-Schlucht, Kreta
+        description: "Wild, urwüchsig und mit bis zu 600 Meter hohen Felswänden präsentiert sich die Samaria-Schlucht im Südwesten von Kreta als mediterranes Naturspektakel. Prächtige Zypressen, Platanen und Pinien säumen den Weg aus über 1.200 Metern Höhe bis hinunter zu den Küsten des Libyschen Meers. In den Sechzigern per königlichem Dekret zum Nationalpark ernannt, gehört die knapp 17 km lange Route zu den überwältigenden Naturschönheiten&nbsp;Griechenlands."
+
+      - id: 2-2
+        title: Vikos-Schlucht
+        description: "Mit bis zu 1.000 Metern tiefen Abgründen inmitten des Pindos-Gebirges hat sich die Vikos-Schlucht einen Platz im Guinness-Buch der Rekorde ergattert. Schwindelerregende Aussichtspunkte gewähren Blicke über unberührte die Natur, die dank ihrer Abgeschiedenheit Wahlheimat zahlreicher Raubvögel, Wildkatzen und Wanderer ist. Auf dem Weg zum Kloster Paraskevi erwartet Sie ein Bilderbuch voller Bergquellen, Brücken und steinerner Balkone, das in einem sagenhaften Panorama&nbsp;mündet."
+
+      - id: 2-3
+        title: Valia Kalda Nationalpark
+        description: "An der Grenze zwischen Epirus und Westmakedonien wartet ein verstecktes Naturparadies darauf, erobert zu werden. Eingerahmt von über 2.000 Meter hohen Gipfeln, garniert mit schillernden Bergseen, duftenden Almwiesen und dichten Kiefernwäldern fühlen sich nicht nur Braunbären und Wölfe wohl. Neben Wanderungen und Tierbeobachtungen bietet der Valia Kalda Nationalpark die Möglichkeit, die Stille zu Füßen der Gipfel des Avgo und des Flegga beim Rafting zu durchbrechen. "
+
+      - id: 2-4
+        title: Menalon Trail, Peloponnes
+        description: "Als erster zertifizierter Qualitätswanderweg Griechenlands bietet der preisgekrönte Menalon Trail ein facettenreiches Wanderwegenetz mit 8 Sektionen auf knapp 75 Kilometer Länge. Im grünen Herzen der Peloponnes lernen Sie Land und Leute bei Touren zu pittoresken Bergdörfern hautnah kennen, kehren in aufregend exponierten Tavernen ein und erliegen dem traditionsreichen Charme seit der Antike genutzter Pfade. Auf dem Gipfel des Menalon thronen Sie auf dem höchsten Punkt Arkadiens."
+
+      - id: 2-5
+        title: Lefkada
+        description: "Lefkada, auch bekannt als „die Weiße“, lockt nicht nur mit einem der besten Surfspots Europas – das für seine Ursprünglichkeit bekannte Eiland ist über eine schwimmende Brücke mit dem Festland verbunden und bietet dank des 1.158 Meter hohen Mount Elati Wanderungen mit Rundumblick-Garantie. Die Wasserfälle in der Schlucht von Dimossari, die Hochebene von Eglouvi und der nur über eine Treppe erreichbare Strand Porto Katsiki sind ebenfalls einen von strahlendem Weiß untermalten Fußweg wert. "
+
+
+
+################################################################################
+
+
+- id: three
+  title: "Segeln"
+  page: straende
+  img: bg-img3
+  description: "Mit tausenden unbewohnter Inseln voller versteckter Buchten und einsamer Strände ist Griechenland ein maritimes El Dorado für Segler. Ein dichtes Netz aus Marinas durchzieht die Archipele vom Ionischen Meer über die Kykladen bis zu den Dodekanes. Wie geschaffen für eine selbstbestimmte Odyssee entlang steil aufragender Küsten, mittelalterlicher Hafenfestungen und türkis schimmernder Lagunen. Im Gegensatz zur von Meltemi-Brisen bespielten Ägäis lässt es das Ionische Meer etwas ruhiger angehen, während die Sporaden mit lieblichen Liegeplätzen&nbsp;locken. "
+
+  pois:
+
+    title:
+    items:
+
+      - id: 3-1
+        title: Ionisches Meer
+        description: "Zwischen der Hackenspitze des italienischen Stiefels und der westlichen Küste der Peloponnes wartet ein mit Highlights gespicktes Segelrevier darauf, erforscht zu werden. Erkunden Sie die grünen Küsten von Korfu oder statten Sie Ithaka, der Heimatinsel von Odysseus, einen Besuch ab. In den Häfen von Kefalonia erwartet Sie ein Reigen mediterraner Grandezza, die sich an der Schmugglerbucht von Zakynthos in das ultimative Postkartenmotiv verwandelt."
+
+      - id: 3-2
+        title: Kykladen
+        description: "Weiß getünchte Fischerdörfer, antike UNESCO-Welterbestätten und die steifen Brisen des Meltemi-Windes verleihen den Kykladen zeitlose Anmut. Dank der sommerlichen Brisen des Meltemi sind längere Flauten eine Seltenheit. Dafür sorgen optische Highlights wie das Felsenkloster von Amorgos, die farbenfrohe Syrmata-Architektur auf Milos und das Apollonheiligtum von Delos für typisch kykladische Ruhepausen. Ganz zu Schweigen von all den unbewohnten Perlen, die Poseidon zwischen Mykonos, Naxos und Ios versteckt&nbsp;hat."
+
+      - id: 3-3
+        title: Sporaden und Nordägäische Inseln
+        description: "Wer sich auf  einen Segeltörn durch die Sporaden begibt, macht Bekanntschaft mit unberührten Inselwelten, lieblichen Liegeplätzen und maritimer Stille. Während die Nördlichen Sporaden vor den Toren der Chalkidiki mit überschaubaren Segeldistanzen und ruhiger See locken, sind die Nordägäischen Inseln wie geschaffen für fortgeschrittene Abenteurer. Mehr als 100 unbewohnte Inseln offerieren maritime Freiräume, die rund um Samos, Fourni und Ikaria von zivilisierter Beschaulichkeit abgelöst werden."
+
+      - id: 3-4
+        title: Dodekanes
+        description: "Ob Stippvisite in der Altstadt von Rhodos, Besuch der Johanniterfestung auf Kos oder Grottenbesichtigung auf Patmos: Die Gründe für einen Segeltörn durch die Dodekanes-Inseln  sind so zahlreich wie das architektonische Erbe aus osmanischen und venezianischen Zeiten. Westlich von Karpathos erwartet Sie die tiefste Stelle der Ägäis, auf Kastelorizo sorgt die Blaue Grotte für strahlende Urlaubsmomente und auf Ikaria wetteifern Karettschildkröten und das Abendrot in der Bucht von Nas um den Platz der schönsten Urlaubserinnerung.  "
+
+
+
+################################################################################
+
+
+- id: four
+  title: "Tauchen"
+  page: straende
+  img: bg-img4
+  description: "Kristallklares Wasser, paradiesische Lagunen und azurblaue Grotten sind nur einige der Vorzüge, die Griechenland zu einem gleichsam faszinierenden wie artenreichen Tauchrevier machen. Entlang der über 16.000 Kilometer langen Küste erwartet Taucher eine einzigartige Unterwasserwelt voller Schiffswracks, farbenfroher Fischschwärme und versunkener Zeugnisse der Antike. Neben Unterwasser-Safaris durch weitverzweigte Höhlensysteme bieten die Tauchbasen spannende Exkursionen zu Delfinen, Amphorenfeldern und Schildkröten-Stränden&nbsp;an."
+
+  pois:
+
+    title:
+    items:
+
+      - id: 4-1
+        title: Kos
+        description: "Während auf Kos mittelalterliche Festungsanlagen, jahrhundertealte Platanen und abgelegene Dörfer das Auge erfreuen, ziehen die Küsten mit endlosen Puderzuckerstränden, Thermalquellen und von zahlreichen Fischarten belebten Riffen die Blicke auf sich. Zu den Unterwasser-Highlights rund um Kos gehört unter anderem das Wrack der Thor Star, die am Kap Roussa zwischen Kos und der für ihre Kapernzucht berühmten Nachbarinsel Pserimos auf Grund liegt. In der Nähe des Paradise Beach machen Sie mit ein wenig Glück Begegnung mit Oktopussen, die in den Tavernen im Hafen des Fischerdorfs Kali Kardia zu den beliebtesten Gerichten gehören."
+
+      - id: 4-2
+        title: Mykonos
+        description: "Von wegen Partyinsel – schon lange, bevor sich Mykonos seinen Ruf als Jetset-Magnet erarbeitet hatte, strahlte das Ibiza der Ägäis mit magischer Anziehungskraft. Puristische Kykladen-Architektur, die berühmten Windmühlen von Kato Mili und das Hafenviertel Klein-Venedig verheißen traumhaft mediterrane Stunden an Land, die von nicht minder hellenischen Sehenswürdigkeiten unter Wasser ergänzt werden. Das Muränentor, eine gelegentlich von Mönchsrobben frequentierte Grotte und die Höhlen von Dragonisi sind nur einige davon."
+
+      - id: 4-3
+        title: Rhodos
+        description: "Nicht nur über Wasser ein wahrer Klassiker – ganzjährig milde Temperaturen, PADI-zertifizierte Tauchzentren und facettenreiche Tauchreviere bieten Anfängern und Fortgeschrittenen reichlich Abwechslung. Ob bei den sprudelnden Unterwasser-Quellen von Kalithea, beim Wrack-Tauchen vor Plimiri oder beim tiefblauen Steilwand-Spektakel an der Bucht von Ladiko: die Dodekanes-Hauptinsel Rhodos geizt auch unter Wasser nicht mit ihren Reizen."
+
+      - id: 4-4
+        title: Zakynthos
+        description: "Verwinkelte Canyons, atemberaubende Höhlensysteme, von Schwefelquellen orchestrierte Blautöne – Zakynthos hat mit seiner farbenprächtigen Vielfalt schon so manchen Wassersportler verzaubert. Genießen Sie mediterranes Fjord-Feeling an der Küste von Porto Limniosas, tauchen Sie zum Wrack der MV Zakynthos und erleben Sie die maritime Flora und Fauna von Turtle Island. In der Paternosterhöhle sorgt der stetig wechselnde Lichteinfall für maritime Schattenspiele. "
+
+      - id: 4-5
+        title: Elefantenhöhle, Kreta
+        description: "Die Elefantenhöhle am Kap Drapanos im Nordwesten von Kreta  gehört zweifelsohne zu den beeindruckendsten Spots für einen unvergesslich prähistorischen Tauchgang. Fossile Elefanten-Knochen zeugen von einer längst vergangenen Zeit, in der Kreta noch mit dem griechischen Festland verbunden war. Nur knapp 10 Meter unter der Wasseroberfläche, erst im Jahre 1999 entdeckt, zählen die Stalaktiten und Stalagmiten der Elefantenhöhle zu den atemberaubendsten Sehenswürdigkeiten, die das Reich Poseidons zu bieten hat. "
+
+
+################################################################################
+
+
+- id: five
+  title: "Golf"
+  page: straende
+  img: bg-img5
+  description: "Eine Partie Golf mit Meerblick gefällig? Dann sind Sie auf den Golfplätzen Griechenlands an der richtigen Adresse. Auf dem preisgekrönten Costa Navario – The Dunes Course haben Sie das Ionische Meer immer fest im Blick. Der The Crete Golf Club glänzt mit exquisiter Lage zwischen Bergen und Mittelmeer, während der von Donald Harradine gestaltete 18-Loch Kurs des Corfu Golf Club mit britischer Finesse und üppiger Vegetation zu überzeugen&nbsp;weiß. "
+
+
+
+################################################################################

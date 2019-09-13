@@ -1,0 +1,24 @@
+# Site settings
+title: Griechenland
+client:
+  name: Ein Kosmos voller Sehnsuchtsorte
+  link: "http://www.visitgreece.gr/"
+core-se-link: https://www.secretescapes.de/aktuelle-angebote?utm_source=SE&utm_medium=hub&utm_campaign=griechenland_DE_19
+description: >
+  Malerische Inselwelten, antike Kulturschätze, pittoreske Tavernen – die Heimat der Götter ist seit jeher ein Garant für mediterrane Sternstunden.
+
+# file paths
+url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
+baseurl: "/de/griechenland-2019" # the subpath of your site, e.g. /blog/
+img:     "/de/griechenland-2019/_assets/img"
+css:     "/de/griechenland-2019/_assets/css"
+js:      "/de/griechenland-2019/_assets/js"
+
+
+# Build settings
+markdown: kramdown
+exclude: [node_modules, gulpfile.js, package.json, package-lock.json, js/script.js]
+keep_files: [_assets]
+sass:
+    sass_dir: css
+    style: compressed

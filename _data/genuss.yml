@@ -1,0 +1,51 @@
+- id: one
+  title: Olivenöl
+  page: genuss
+  img: bg-img1
+  description: "Griechenland und die Früchte des Ölbaums sind untrennbar miteinander verbunden. Ob würzig oder mild, schwarz oder grün, Kalamata oder Koroneiki – eine Schale Oliven bereichert jeden gedeckten Tisch. Handwerklich hergestellte Olivenöle aus Kreta, seltene Öl-Raritäten aus Thasos und das flüssige Gold Chalkidikis zeugen von der seit Jahrtausenden anhaltenden Bedeutung der Olivenbäume, die von Attika bis Zakynthos das tägliche Mahl&nbsp;bereichern. "
+
+
+################################################################################
+
+
+- id: two
+  title: "Feta & Co."
+  page: genuss
+  img: bg-img2
+  description: "Auch wenn den meisten beim Thema Käse zunächst der allseits beliebte Feta in den Sinn kommt – die glücklichen Schafe und Ziegen der griechischen Bauern liefern nicht nur den Rohstoff für zart schmelzenden Weichkäse. Je nach Region und lokalen Vorlieben wird die Milch zu würzigem Kaseri, mildem Kykladen-Graviera oder rauchigem Metsovone weiterverarbeitet. Der salzige Kefalotyri eignet sich perfekt zum Veredeln eines Moussaka-Auflaufs oder als Begleiter zu einem samtigen Glas&nbsp;Agiorgítiko."
+
+
+
+################################################################################
+
+
+- id: three
+  title: "Meeresfrüchte, Fleisch &&nbsp;Gemüse"
+  page: genuss
+  img: bg-img3
+  description: "Das wichtigste bei einem traditionellen griechischen Festmahl ist die Geselligkeit. Was Vorspeise ist und was Hauptgang, spielt angesichts der dargebotenen kalten und warmen Köstlichkeiten keine Rolle. Gebackener Saganaki, gegrillter Oktopus, Lammkoteletts und Souvlaki-Spieße werden über den Tisch gereicht, frisch gebackenes Brot in Tzatziki gedippt, mit Ouzo flambierte Garnelen probiert. Entgegen hartnäckiger Gerüchte hat auch die vegetarische Küche einiges zu bieten, wie die bunten Mezeteller mit Skordalia, Fava und Melitzanosalatat&nbsp;beweisen. "
+
+
+
+################################################################################
+
+
+- id: four
+  title: "Wein"
+  page: genuss
+  img: bg-img4
+  description: "Das Blut der Erde, antiker Göttertrunk und Leibgetränk des Gottes Dionysos – die sagenumwobene Wirkung des griechischen Weins geht auf jahrtausendealte Erfahrung zurück. Schon in den Werken Homers als flüssiges Kulturgut gepriesen, gehören die edlen Tropfen aus Thrakien bis heute zum Standard-Portfolio jeder gut sortierten Weinkarte. Weißer Monemvasia aus Paros, edler Xinomavro aus Naoussa und kräftiger Mavrostyfo von der Peloponnes zeugen von der geschmacklichen Vielfalt griechischer Reben, die schon so manchen Genießerurlaub nachhaltig versüßt&nbsp;haben."
+
+
+################################################################################
+
+
+- id: five
+  title: "Süße Versuchungen"
+  page: genuss
+  img: bg-img5
+  description: "Eine griechische Mahlzeit ohne süßen Abschluss? Undenkbar! Vor allem, wenn man so verlockende Zutaten wie Tannenhonig aus Vytina, geröstete Pistazien aus Egina oder Kirschen aus Thessalien zur Verfügung hat. Zum obligatorischen Mokka gesellt sich ein Tellerchen Mandelhalva mit Sesampaste, Marzipan aus Kythira oder mit Rosenzucker veredelte Pommelos. Ein cremiger Joghurt mit Walnüssen und Orangenhonig gehört nicht nur auf Kreta zur köstlichen Tradition. Die Variationen der allseits beliebten Süßspeise Baklava sind so zahlreich wie die griechischen&nbsp;Inseln. "
+
+
+
+################################################################################

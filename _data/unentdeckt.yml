@@ -1,0 +1,52 @@
+- id: one
+  title: Insel Symi
+  page: unentdeckt
+  img: bg-img1
+  description: "Schon beim Einlaufen auf dem Sporaden-Kleinod Symi wird klar, dass der Fotofilter angesichts der Farbenpracht ausgedient hat. Nur eine kurze Bootsfahrt von Rhodos entfernt erwartet Sie ein pastellfarbenes Paradebeispiel anmutiger Abgeschiedenheit. Verschlafene Fischerdörfer, strahlend weiße Klöster und menschenleere Strände verleihen Symi den Charakter eines maritimen Dornröschens. Mediterrane Fjorde laden zu paradiesischen Naturerlebnissen ein – ein sonnenverwöhnter Geheimtipp für ruhesuchende&nbsp;Individualurlauber."
+
+
+
+################################################################################
+
+
+- id: two
+  title: "Paxos & Antipaxos (Ionisches&nbsp;Meer)"
+  page: unentdeckt
+  img: bg-img2
+  description: "Zwei geradezu ikonische Schwesterinseln im Ionischen Meer, nur über das Festland oder von Korfu per Schiff erreichbar, gesäumt mit zackigen Küsten, intimen Traumstränden und üppiger Vegetation. Am Mongonissi Strand auf Paxos badet man mit Blick auf imposante Felsformationen, während der Voutomi Strand auf dem winzigen und nahezu unbewohnten Eiland Antipaxos ein türkisblaues Wunder verspricht. "
+
+
+
+################################################################################
+
+
+- id: three
+  title: "Vouliagmeni-See (Athen)"
+  page: unentdeckt
+  img: bg-img3
+  description: "Im Herzen der Athenischen Riviera schlummert ein kleines Paradies. Gespeist von einem unterirdischen Höhlennetz eröffnet sich ein surreal grünes Phänomen: Ein zum Naturdenkmal gekürtes Thermalbad, das dank schwefelhaltigem Meerwasser heilsame Badefreuden verspricht. Schon seit dem 19. Jahrhundert als zentrumsnaher Kurort bekannt, lädt der Vouliagmeni-See zu malerischen Wellness-Momenten ein. Relaxen Sie in einer Sonnenliege auf der weitläufigen Terrasse und tanken Sie natürliche Energie beim Abtauchen im kühlen Nass."
+
+
+
+################################################################################
+
+
+- id: four
+  title: "Vathia (Peloponnes)"
+  page: unentdeckt
+  img: bg-img4
+  description: "An der Südspitze der Peloponnes, eingerahmt vom Messenischen Golf und kargen Bergen und Olivenhainen, sorgt ein ehemaliges Piratennest für staunende Augen. Ein denkmalgeschütztes Dorf mit Skyline aus Naturstein, wie eine uneinnehmbare Trutzburg auf einem Hügel thronend, wie geschaffen für eine Verschnaufpause von der Realität und imposanter Beweis dafür, dass auf dem griechischen Festland zahllose Überraschungen&nbsp;warten. "
+
+
+################################################################################
+
+
+- id: five
+  title: "Dorf Mikro&nbsp;Papigo"
+  page: unentdeckt
+  img: bg-img5
+  description: "Ein Bergdorf wie aus dem Bilderbuch – geprägt von majestätischen Gipfeln, tiefen Schluchten und in Stein gemeißelter Tradition. Willkommen im beschaulichen aber bildgewaltigen Mikro Papigo, einem der schönsten Zagoria-Dörfern, dessen Umgebung zu aussichtsreichen Wanderungen durch das Königreich der Adler einlädt. Filigrane Steinmetzkunst, gepaart mit atemberaubender Natur zu Füßen des 2.497 Meter hohen&nbsp;Tymfi-Massivs. "
+
+
+
+################################################################################
