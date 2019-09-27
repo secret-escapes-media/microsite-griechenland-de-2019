@@ -3,6 +3,7 @@
 $page-nav-height:    75px;
 $page-nav-height-sm: 60px;
 $page-nav-width-bp:  650px;
+$page-nav-width-bp-xxl:  850px;
 $page-nav-color:     $white;
 
 
@@ -58,6 +59,10 @@ $page-nav-color:     $white;
     overflow-x: auto;
     overflow-y: hidden;
     @include bp($page-nav-width-bp){ overflow: visible; }
+
+    &--xxl   {
+      @include bp($page-nav-width-bp-xxl){ overflow: visible; }
+    }
   }
   &__wrap {
     display: flex;

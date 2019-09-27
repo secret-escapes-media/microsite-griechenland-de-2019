@@ -6,13 +6,13 @@ layout: default
 
 <div class=" vpad--xxl bv-parallax bv-shadow-inset" style="background-image: url('{{site.img}}/content/bg-intro.jpg');">
   <div class="container">
-    <div class="width width--xl text--center text--normal text--xxl text--white bv-mob-left" >
+    <div class="width width--xl text--normal text--xxl text--white bv-mob-left" >
       <p>{{page.intro}}</p>
     </div>
   </div>
 </div>
 
-{% if page.sections %}{% include nav/page.html %}{% endif %}
+<!-- {% if page.sections %}{% include nav/page.html %}{% endif %}-->
 
 {% for section in site.data[page.id] %}
 

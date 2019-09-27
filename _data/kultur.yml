@@ -10,8 +10,8 @@
     items:
 
       - id: 1-1
-        title: Aigai, Makedonien
-        description: "Im Herzen von Makedonien gehören die Ausgrabungsstätten rund um die antike Metropole Aigai zu den bedeutendsten Vermächtnissen des makedonischen Königreichs. Vergoldete Grabbeigaben, verziert mit dem Stern von Vergina, erzählen von epischen Heldentaten. Die einstige Hauptstadt beherbergt die Ruhestätten zahlreicher Herrscher sowie eine eisenzeitliche Nekropole, die in Kombination mit einem unterirdischen Museumsbau ehrfürchtige Einblicke in die Geschichte Griechenlands&nbsp;gewährt."
+        title: "Thessaloniki: Frühchristliche und byzantinische Bauwerke"
+        description: "Die Provinz- und Hafenstadt Thessaloniki war überaus bedeutsam für die Verbreitung des christlichen Glaubens. Davon zeugen noch heute Kirchen und andere Bauwerke, die zwischen dem 4. und 15. Jahrhundert erbaut und von der UNESCO als Weltkulturerbe eingestuft werden. Dazu gehören neben der Stadtmauer auch die Rotunde, eine der ältesten Kirchen der Welt, die Demetrios-Basilika und viele Fresken und Mosaiken in der ganzen Stadt. Die Monumente blieben größtenteils intakt und bilden einen kulturgeschichtlichen Schatz, der nicht nur für Historiker von Interesse ist."
 
       - id: 1-2
         title: Akropolis, Athen
@@ -46,19 +46,19 @@
 
       - id: 2-2
         title: Thessaloniki
-        description: "In Thessaloniki haben kulturbegeisterte Städtereisende die Qual der Wahl. Hier verschmelzen die Vermächtnisse unterschiedlicher Epochen zu einem begehbaren Denkmal. Römische, osmanische und griechische Einflüsse verleihen der Hauptstadt Makedoniens multikulturellen Glanz, der sich vom Trigonios-Turm der Zitadelle herrlich überblicken lässt. Der Axios Nationalpark im Westen der Stadt lädt nach dem Sightseeing zum Durchatmen zwischen Lagunen und Salinen&nbsp;ein."
+        description: "In Thessaloniki haben kulturbegeisterte Städtereisende die Qual der Wahl. Hier verschmelzen die Vermächtnisse unterschiedlicher Epochen zu einem begehbaren Denkmal. Byzantinische, römische und osmanische Einflüsse verleihen der Hauptstadt Makedoniens multikulturellen Glanz, der sich vom Trigonios-Turm der Zitadelle herrlich überblicken lässt. Der Axios Nationalpark im Westen der Stadt lädt nach dem Sightseeing zum Durchatmen zwischen Lagunen und Salinen ein."
 
       - id: 2-3
         title: Chania (Kreta)
         description: "Einst lagen vor Chania die Schiffe der venezianischen Flotte, heute sind es vorwiegend Luxus-Yachten und Fischerboote, die mit Blick auf den ägyptischen Leuchtturm vor Anker gehen. An der autofreien Promenade relaxen Sie in schnuckligen Tavernen zwischen denkmalgeschützten Ensembles. Gleich dahinter empfängt Sie ein Gewirr aus Gassen, Boutiquen und altertümlichen Ruinen, die teilweise als stilechte Bühne für kretische Straßenkünstler&nbsp;dienen. "
 
       - id: 2-4
-        title: Mittelalterliche Stadt von Rhodos
-        description: "Eine vollständig erhaltene Stadtbefestigung, der weithin sichtbare Großmeisterpalast und das Marientor am Hafen sind nur einige der kolossalen Beigaben, mit denen Rhodos-Stadt Besucher anzieht. Ein Spaziergang zum Fort St. Nicholas gewährt Ausblicke über den Hafen, während zahlreiche Museen und Sakralbauten unterschiedlicher Religionen von der kosmopolitischen Anziehungskraft der Inselhauptstadt zeugen. Zur mittelalterlichen Magie gesellt sich der antike Charme der Akropolis von&nbsp;Rhodos."
+        title: Mittelalterliche Stadt von&nbsp;Rhodos
+        description: "Eine vollständig erhaltene Stadtbefestigung, der weithin sichtbare Großmeisterpalast und das Marientor am Hafen sind nur einige der kolossalen Beigaben, mit denen Rhodos-Stadt Besucher anzieht. Ein Spaziergang zum Fort Agios Nikolaos gewährt Ausblicke über den Hafen, während zahlreiche Museen und Sakralbauten unterschiedlicher Religionen von der kosmopolitischen Anziehungskraft der Inselhauptstadt zeugen. Zur mittelalterlichen Magie gesellt sich der antike Charme der Akropolis von Rhodos."
 
       - id: 2-5
         title: Nafplio
-        description: "Mit ihren drei Festungen, den imposanten Stadttoren und den wie Bernstein leuchtenden Fassaden gehört Nafplio zu den pittoreskesten Hafenstädten auf der Peloponnes. Auf einer felsigen Landzunge über dem Argolischen Golf thronend, versprüht die einstige Hauptstadt Griechenlands mediterrane Unbekümmertheit und altmodischen Chic. Nur 30 Kilometer weiter östlich komplettiert die kultige Silhouette von Epidauros das Bild vom hellenischen&nbsp;Idyll. "
+        description: "Mit ihren drei Festungen, den imposanten Stadttoren und den wie Bernstein leuchtenden Fassaden gehört Nafplio zu den pittoreskesten Hafenstädten auf der Peloponnes. Auf einer felsigen Landzunge über dem Argolischen Golf thronend, versprüht die einstige Hauptstadt Griechenlands mediterrane Unbekümmertheit und altmodischen Chic. Nur 30 Kilometer weiter östlich komplettiert die kultige Silhouette von Epidaurus das Bild vom hellenischen Idyll."
 
 
 

@@ -1,8 +1,8 @@
 - id: one
-  title: Insel Symi
+  title: Nisyros
   page: unentdeckt
   img: bg-img1
-  description: "Schon beim Einlaufen auf dem Sporaden-Kleinod Symi wird klar, dass der Fotofilter angesichts der Farbenpracht ausgedient hat. Nur eine kurze Bootsfahrt von Rhodos entfernt erwartet Sie ein pastellfarbenes Paradebeispiel anmutiger Abgeschiedenheit. Verschlafene Fischerdörfer, strahlend weiße Klöster und menschenleere Strände verleihen Symi den Charakter eines maritimen Dornröschens. Mediterrane Fjorde laden zu paradiesischen Naturerlebnissen ein – ein sonnenverwöhnter Geheimtipp für ruhesuchende&nbsp;Individualurlauber."
+  description: "Der Legende nach entstand Nisyros, als Poseidon ein Stück von Kos nach einem Giganten warf. Doch auch heute geht es auf der kleinen Insel heiß her: als Teil des Kykladen-Bogens ist Nisyros vulkanisch aktiv und erlebte 3 Ausbrüche in den letzten 45.000 Jahren. Werfen Sie einen Blick auf die Schlammkrater am Südende der Caldera, die mit ca. 3,8 km Durchmesser die ca. 8 km breite Insel dominiert. Unbeachtet vom Massentourismus haben Sie die Insel fast für sich: Authentische Strände laden zum Schwimmen ein, die pittoresken Straßen Nikias zum Flanieren, Festivals und Kunstausstellungen nähren&nbsp;Ästheten."
 
 
 
@@ -10,10 +10,10 @@
 
 
 - id: two
-  title: "Paxos & Antipaxos (Ionisches&nbsp;Meer)"
+  title: "Thessalien: Plastira-See und&nbsp;Pilion"
   page: unentdeckt
   img: bg-img2
-  description: "Zwei geradezu ikonische Schwesterinseln im Ionischen Meer, nur über das Festland oder von Korfu per Schiff erreichbar, gesäumt mit zackigen Küsten, intimen Traumstränden und üppiger Vegetation. Am Mongonissi Strand auf Paxos badet man mit Blick auf imposante Felsformationen, während der Voutomi Strand auf dem winzigen und nahezu unbewohnten Eiland Antipaxos ein türkisblaues Wunder verspricht. "
+  description: "Zu unrecht übersehen ist Thessalien im geografischen Zentrum Griechenlands. Hier ist einer der größten Stauseen Griechenlands, der Plastiras-Stausee. Vom gleichnamigen Ex-Premierminister ins Leben gerufen, versorgt der See die Einwohner mit Elektrizität und Besucher mit zauberhaft alpinen Ausblicken auf das umgebende Agrafa-Gebirge. Bergig und idyllisch ist es auch weiter südlich auf der Halbinsel Pilion, die immer noch als Geheimtipp gilt. Traditionelle Dörfer, schroff abfallende Küstenabschnitte, dichte Nadelwälder: wenn Sie Griechenland eigenständig entdecken wollen, sind Sie hier&nbsp;goldrichtig."
 
 
 
@@ -21,10 +21,10 @@
 
 
 - id: three
-  title: "Vouliagmeni-See (Athen)"
+  title: "Euböa"
   page: unentdeckt
   img: bg-img3
-  description: "Im Herzen der Athenischen Riviera schlummert ein kleines Paradies. Gespeist von einem unterirdischen Höhlennetz eröffnet sich ein surreal grünes Phänomen: Ein zum Naturdenkmal gekürtes Thermalbad, das dank schwefelhaltigem Meerwasser heilsame Badefreuden verspricht. Schon seit dem 19. Jahrhundert als zentrumsnaher Kurort bekannt, lädt der Vouliagmeni-See zu malerischen Wellness-Momenten ein. Relaxen Sie in einer Sonnenliege auf der weitläufigen Terrasse und tanken Sie natürliche Energie beim Abtauchen im kühlen Nass."
+  description: "Nur Kreta ist größer: Die Insel der wohlgenährten Ochsen ist durch die kleinste Meerenge der Welt vom griechischen Festland getrennt. Guter Wein ist ebenso leicht zu finden wie atemberaubende Strände entlang der 800 km langen Küstenlinie, viele davon schwer zugänglich und umso lohnenswerter. Besuchen Sie Edipsos für seine heilsamen Mineralquellen, Chalkida für urbanes Weltgefühl, wandern und klettern Sie nach Herzenslust im Dirfis-Gebirge, entdecken Sie Wasserfälle, Schluchten und archäologische&nbsp;Schätze."
 
 
 
@@ -32,21 +32,20 @@
 
 
 - id: four
-  title: "Vathia (Peloponnes)"
+  title: "Ikaria"
   page: unentdeckt
   img: bg-img4
-  description: "An der Südspitze der Peloponnes, eingerahmt vom Messenischen Golf und kargen Bergen und Olivenhainen, sorgt ein ehemaliges Piratennest für staunende Augen. Ein denkmalgeschütztes Dorf mit Skyline aus Naturstein, wie eine uneinnehmbare Trutzburg auf einem Hügel thronend, wie geschaffen für eine Verschnaufpause von der Realität und imposanter Beweis dafür, dass auf dem griechischen Festland zahllose Überraschungen&nbsp;warten. "
+  description: "Hier, wo im Mythos Ikarus ins Meer fiel und wo die Zeit am Nas-Strand stillsteht, liegt das ursprüngliche Griechenland. Die Lebenserwartung ist auf Ikaria bei ca. 90 Jahren angesiedelt, was neben der ausgewogenen Mittelmeerdiät der Bewohner an ihrer täglichen Siesta und ausgiebigen Bewegung liegt. Tun Sie es ihnen gleich und finden Sie heraus, warum laut CNN die Insel ideal für Naturfreunde ist. Liegt es am charakteristisch geformten Atheras-Gebirge, an der geographischen Abwechslung – Flüsse, kleine Seen, Fichtenwälder – oder am klaren Nachthimmel, wo sich bestens Sterne beobachten&nbsp;lassen?"
 
 
 ################################################################################
 
 
 - id: five
-  title: "Dorf Mikro&nbsp;Papigo"
+  title: "Zagoria-Dorf Mikro Papigo (Vikos-Schlucht)"
   page: unentdeckt
   img: bg-img5
-  description: "Ein Bergdorf wie aus dem Bilderbuch – geprägt von majestätischen Gipfeln, tiefen Schluchten und in Stein gemeißelter Tradition. Willkommen im beschaulichen aber bildgewaltigen Mikro Papigo, einem der schönsten Zagoria-Dörfern, dessen Umgebung zu aussichtsreichen Wanderungen durch das Königreich der Adler einlädt. Filigrane Steinmetzkunst, gepaart mit atemberaubender Natur zu Füßen des 2.497 Meter hohen&nbsp;Tymfi-Massivs. "
-
+  description: "Ein Bergdorf wie aus dem Bilderbuch – geprägt von majestätischen Gipfeln, tiefen Schluchten und in Stein gemeißelter Tradition. Willkommen im beschaulichen aber bildgewaltigen Mikro Papigo, einem der schönsten Zagoria-Dörfern, dessen Umgebung zu aussichtsreichen Wanderungen durch das Königreich der Adler einlädt. Filigrane Steinmetzkunst, gepaart mit atemberaubender Natur zu Füßen des 2.497 Meter hohen&nbsp;Tymfi-Massivs."
 
 
 ################################################################################
