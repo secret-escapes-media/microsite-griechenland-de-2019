@@ -1,79 +1,52 @@
-- title: Panoramablick & Suiten-Luxus auf Chalkidiki
-  location: Kappa Resort, Paliouri, Chalkidiki, Griechenland
-  description: Die griechische Sonne in Paliouri genießen – inkl. Flügen, Privattransfers & Halbpension
-  price: 599
-  price-description: pro Person basierend auf 2 Personen für 5 Nächte
-  saved: 44
-  flight-tag: true
-  expires: 2019/09/30
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/695/40b8458c_9286_49d1_92ed_79f8e024e92f.jpg?auto=format,compress
-  link: https://www.secretescapes.de/kappa-resort-paliouri-chalkidiki-griechenland-de/sale-ihp
-
-- title: Last Minute in die Sonne – Kretas Norden
-  location: Theartemis Palace, Rethymno, Kreta, Griechenland
-  description: Hafenromantik und Beachlife in Rethymno – inkl. Flügen, Halbpension, Massage & Extras
-  price: 599
-  price-description: pro Person basierend auf 2 Personen für 7 Nächte
-  saved: 35
-  expires: 2019/09/30
-  flight-tag: true
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/700/8c4ead96_9005_4184_b27c_14f8998239f6.jpg?auto=format,compress
-  link: https://www.secretescapes.de/theartemis-palace-rethymno-griechenland-de/sale-ihp
+- title: Griechischer Großstadt-Glamour
+  location: Antigon Urban Chic Hotel, Thessaloniki, Griechenland
+  description: Comfort-Zimmer oder Suiten optional mit Blick über die Stadt inkl. Frühstück & Cocktails
+  price: 125
+  price-description: pro Unterkunft pro Nacht
+  saved: 54
+  expires: 2019/10/14
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/91599/af9fe378_d199_49e0_9490_03fa298bf1d3.jpg?auto=format,compress
+  link: http://bit.ly/2o8ka0u
 
 - title: Griechischer 5*-Glanz auf Korfu
   location: Domes Miramare, a Luxury Collection Resort, Korfu, Griechenland
   description: Adults-only Hotel mit Privatstrand – inkl. Flügen, Privattransfers, Frühstück & Extras
-  price: 845
-  price-description: pro Person basierend auf 2 Personen für 7 Nächte
+  price: 799
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
   saved: 22
-  flight-tag: true
   expires: 2019/10/07
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/241/851669ef_c512_4702_a42a_cf249df4bdef.jpg?auto=format,compress
-  link: https://www.secretescapes.de/griechischer-5-star-glanz-auf-korfu-domes-miramare-corfu-moraitika-korfu-griechenland-2/sale-ihp
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/241/e3b83380_7523_4ff6_812f_b6c7c4dd283f.jpg?auto=format,compress
+  link: http://bit.ly/2objjvW
 
 - title: Zauberhaftes Strandresort auf Kreta
   location: The Royal Blue – A Luxury Beach Resort, Rethymno, Kreta, Griechenland
   description: Luxus am Privatstrand in Panormos – inkl. Flügen, Privattransfers & Halbpension
   price: 699
-  price-description: pro Person basierend auf 2 Personen für 7 Nächte
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
   saved: 27
-  flight-tag: true
   expires: 2019/10/07
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/180/d4b6d2b4_b9a9_4c01_9a05_84705520864e.jpg?auto=format,compress
-  link: https://www.secretescapes.de/royal-blue-geropotamou-griechenland/sale-ihp
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/180/741a6549_00c2_49a4_a5d9_05593b48bec9.jpg?auto=format,compress
+  link: http://bit.ly/2mAMOXR
 
 - title: Sonnenauszeit auf der griechischen Insel Kos
   location: Diamond Deluxe Hotel, Kos, Griechenland
   description: Elegantes 5*-Refugium – inkl. Flügen, Halbpension, Transfers & Extras
   price: 599
-  price-description: pro Person basierend auf 2 Personen für 7 Nächte
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
   saved: 29
-  flight-tag: true
   expires: 2019/10/07
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/455/fa6ae2aa_2c25_489f_a3d5_78af2ae5418e.jpg?auto=format,compress
-  link: https://www.secretescapes.de/sonnenauszeit-auf-der-griechischen-insel-kos-diamond-deluxe-hotel-kos-suedliche-agaeis-griechenland-de/sale-ihp
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/455/455cf9ab_134c_4435_92ee_dd4e3ff43498.jpg?auto=format,compress
+  link: http://bit.ly/2oWMpzT
 
-
-- title: Traumhafte Sonnentage auf Thassos
-  location: Ilio Mare Resort Hotel, Skala Prinos, Thassos, Griechenland
-  description: Sonne satt in Griechenland – inkl. Flügen, Privattransfers, Halbpension & Extras
-  price: 485
-  price-description: pro Person basierend auf 2 Personen für 7 Nächte
-  saved: 42
-  flight-tag: true
-  expires: 2019/09/30
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/100734/eea0f942_239b_4152_b0ec_a0296f34c40d.jpg?auto=format,compress
-  link: https://www.secretescapes.de/traumhafte-sonnentage-auf-thassos-ilio-mare-resort-hotel-skala-prinos-thassos-griechenland/sale
-
-- title: Pure Erholung & Weitblick in Athen
-  location: Grand Hyatt Athens, Athen, Griechenland
-  description: Mondäner 5*-Lifestyle zwischen City & Hafen – inkl. Frühstück & 1 Flasche Wein
-  price: 115
-  price-description: pro Unterkunft pro Nacht
-  saved: 50
-  expires: 2019/09/30
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/98389/2942a0bd_60a6_4cd6_a348_c48c008765e9.jpg?auto=format,compress
-  link: https://www.secretescapes.de/pure-erholung-and-weitblick-in-athen-grand-hyatt-athens-athen-griechenland/sale
+- title: "Chalkidiki: Zwischen Strand & antiken Tempeln"
+  location: Ammon Zeus Luxury Beach Hotel, Kalithea, Chalkidiki, Griechenland
+  description: Maritimes Ambiente in Kalithea – inkl. Flügen, Transfers, Halbpension, Massage & Extras
+  price: 499
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
+  saved: 20
+  expires: 2019/10/14
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/470/246dbe3a_6851_4f14_ad7f_da5a13741c20.jpg?auto=format,compress
+  link: http://bit.ly/2neuX9x
 
 - title: All-inclusive-Auszeit auf Kos
   location: Ammos Resort, Mastichari, Kos, Südliche Ägäis, Griechenland
@@ -82,8 +55,8 @@
   price-description: pro Zimmer pro Nacht
   saved: 61
   expires: 2019/10/07
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/42357/abe8bcc6_94b6_4839_9e81_42cdbf337a3a.jpg?auto=format,compress
-  link: https://www.secretescapes.de/all-inclusive-auszeit-auf-kos-ammos-resort-mastichari-kos-suedliche-agaeis-griechenland-0/sale
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/84165/97253164_a38c_4690_9fd8_0e18882f4bb1.jpg?auto=format,compress
+  link: http://bit.ly/2nf1fkK
 
 - title: Griechischer Inseltraum auf Santorini
   location: Santorini Dreams Villas, Pirgos, Santorini, Griechenland
@@ -92,9 +65,8 @@
   price-description: pro Suite pro Nacht
   saved: 51
   expires: 2019/10/07
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101835/fb0ab545_1532_4eef_ba76_fc335e631ed8.jpg?auto=format,compress
-  link: https://www.secretescapes.de/griechischer-inseltraum-auf-santorini-santorini-dreams-villas-pirgos-santorini-griechenland/sale
-
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101835/3872d215_9a25_4dea_b2fd_90aac45ce11b.jpg?auto=format,compress
+  link: http://bit.ly/2oTkh0h
 
 - title: Chalkidiki zwischen Strand & wilder Natur
   location: Xenia Ouranoupoli, Chalkidiki, Griechenland
@@ -104,7 +76,7 @@
   saved: 51
   expires: 2019/10/07
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/101950/58e68798_1fa3_4283_8be6_0819de22c9b7.jpg?auto=format,compress
-  link: https://www.secretescapes.de/chalkidiki-zwischen-strand-and-wilder-natur-xenia-ouranoupoli-chalkidiki-griechenland/sale
+  link: http://bit.ly/2oQEIuM
 
 - title: Griechische Inselperle im Mittelmeer
   location: Contessina Hotel, Tsilivì, Zakynthos, Griechenland
@@ -112,9 +84,9 @@
   price: 79
   price-description: pro Unterkunft pro Nacht
   saved: 56
-  expires: 2019/10/07
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102045/69cf985b_3774_4671_9560_d57f91435ef6.jpg?auto=format,compress
-  link: https://www.secretescapes.de/griechische-inselperle-im-mittelmeer-contessina-hotel-tsilivi-zakynthos-griechenland-de/sale
+  expires: 2019/10/14
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/92538/97707709_5ae7_449d_a8db_2ae1bca7fe4b.jpg?auto=format,compress
+  link: http://bit.ly/2oVXPnn
 
 - title: Griechischer Inseltraum auf Kreta
   location: SENTIDO Vasia Resort & Spa, Sisi, Kreta, Griechenland
@@ -123,8 +95,8 @@
   price-description: pro Zimmer pro Nacht
   saved: 27
   expires: 2019/10/07
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102188/8c59b9eb_42a5_4a68_8715_333d292375a1.jpg?auto=format,compress
-  link: https://www.secretescapes.de/sentido-vasia-resort-and-spa-crete-greek-islands/sale
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102188/d839fa9b_a53a_45ae_8038_8d654e3149f4.jpg?auto=format,compress
+  link: http://bit.ly/2oUGU4C
 
 - title: Exclusives All-inclusive-Resort auf Rhodos
   location: Electra Palace Rhodes, Ialyssos, Rhodos, Griechenland
@@ -132,6 +104,46 @@
   price: 110
   price-description: pro Unterkunft pro Nacht
   saved: 43
-  expires: 2019/10/07
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/98453/f4b48af5_bbf6_4c14_8982_da4a1d8a2f0a.jpg?auto=format,compress
-  link: https://www.secretescapes.de/exclusives-all-inclusive-resort-auf-rhodos-electra-palace-rhodes-ialyssos-rhodos-griechenland-beach/sale
+  expires: 2019/10/14
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/98453/0cf9ad92_1aed_430b_82d5_fc89dda7f9e4.jpg?auto=format,compress
+  link: http://bit.ly/2nq5h9J
+
+- title: Wellness & Meer an der Ägäis
+  location: Dion Palace, Gritsa, Litochoro, Zentralmakedonien, Griechenland
+  description: Griechisches 5*-Resort – inkl. Halbpension, Zimmer-Upgrade, 1 Flasche Wein & Spa-Extras
+  price: 72
+  price-description: pro Zimmer pro Nacht
+  saved: 58
+  expires: 2019/10/14
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/70593/d19d29db_7a5f_4847_9525_b453bbefdcc1.jpg?auto=format,compress
+  link: http://bit.ly/2oTmUiF
+
+- title: Griechischer All-inclusive-Sommer auf Rhodos
+  location: Lutania Beach Hotel, Kolymbia, Rhodos, Griechenland
+  description: Ägäis, Traumstrand & Kultur - inkl. Flügen, Transfers, Zimmer mit Meerblick & All-inclusive
+  price: 499
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
+  saved: 9
+  expires: 2019/10/14
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/97844/b8026439_c0fa_4026_b7c5_d79dcdf205ac.jpg?auto=format,compress
+  link: http://bit.ly/2nnNW1i
+
+- title: Entspannte Sonnentage auf Kreta
+  location: Rethymno, Kreta, Griechenland
+  description: Kretische Ägäis – inkl. Upgrade auf Ultra All inclusive, Fruchtkorb & 1 Flasche Wein
+  price: 203
+  price-description: pro Zimmer pro Nacht
+  saved: 60
+  expires: 2019/10/14
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/91474/9d0d4a4f_5b90_492e_89e6_3866d58ecbcb.jpg?auto=format,compress
+  link: http://bit.ly/2oNXWkH
+
+- title: Familienfun unter der griechischen Sonne
+  location: Cronwell Platamon Resort, Platamonas, Pieria, Griechenland
+  description: Auszeit für die ganze Familie – inkl. All-inclusive
+  price: 89
+  price-description: pro Zimmer pro Nacht
+  saved: 44
+  expires: 2019/10/14
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102508/ffbef694_bf36_4572_8292_ec99f94af72e.jpg?auto=format,compress
+  link: http://bit.ly/2oVasiw
