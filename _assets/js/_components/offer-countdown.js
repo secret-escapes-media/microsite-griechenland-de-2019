@@ -19,7 +19,7 @@ $('.js-offer-expires').each(function() {
       $(this).html(event.strftime('Endet <strong>heute</strong>'));
     } else {
       // there are days left, outputs with either day or days
-      $(this).html(event.strftime('Ending in <strong>%-D Tagen</strong>'));
+      $(this).html(event.strftime('Endet in <strong>%-D Tagen</strong>'));
     }
   });
 });

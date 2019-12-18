@@ -19,13 +19,10 @@ layout: default
 
 <div id="{{section.id}}" class="harvey{% cycle ' harvey--swap', '' %} {% cycle 'bg--white', 'bg--g-darkblue' %}">
 
-  <div class="harvey__img " style="background-image: url('{{site.img}}/content/{{page.id}}/bg-img/{{section.img}}.jpg');">
-    <a href="{{site.baseurl}}{{page.url}}" class="harvey__link"></a>
-  </div>
+  <div class="harvey__img " style="background-image: url('{{site.img}}/content/{{page.id}}/bg-img/{{section.img}}.jpg');"></div>
   <div class="harvey__text text--xxl boxpad--xl {% cycle 'text--black', 'text--white' %}">
     <h2 class="sub-title sub-title--lg ">{{section.title}}</h2>
     <p>{{section.description}}</p>
-
   </div>
 </div>
 
