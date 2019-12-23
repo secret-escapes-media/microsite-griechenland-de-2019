@@ -1,69 +1,46 @@
-
-- title: Athen & Kykladen-Inselhüpfen im Paradies
-  location: Rundreise, Griechenland
-  description: Der Zauber Athens und der griechischen Kykladen - inkl. Hotel, Frühstück, alle Transfers, Fährfahrten und Flügen!
-  price: 819
-  price-description: pro Person basierend auf 2 Personen für 7 Nächte
-  saved: 28
-  tag: config-flights
-  expires:
-  image: https://d2g6qre7voj6kv.cloudfront.net/webRedirects/158/35cf248c_07c4_4185_9236_dcc50c070435.jpg
-  link: https://www.secretescapes.de/inselhuepfen-im-paradies-kykladen-de/sale-wrd
-
-- title: Fly & Drive Kreta mit Weinprobe
-  location: Rundreise, Griechenland
-  description: "Kreta entdecken und schmecken: 4-Sterne-Hotels inkl. Weinprobe, Frühstück & Flügen"
-  price: 469
-  price-description: pro Person basierend auf 2 Personen für 7 Nächte
-  saved:
-  expires:
-  tag: config-flights
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/72378/346bbca7_2e7c_4db7_becc_17da5e0be741.jpg
-  link: https://de.sales.secretescapes.com/115247/fly-drive-kreta-mit-weinbrobe-de/
-
-- title: Mondäne 5*-Apartments auf Chalkidiki
-  location: Pefki Deluxe Residences, Pefkochori, Chalkidiki, Griechenland
-  description: Ägäis-Auszeit im stylishen Aparthotel – inkl. Flügen, Transfers, Frühstück & Begrüßungsgetränk
-  price: 249
-  price-description: pro Person basierend auf 2 Personen für 5 Nächte
-  saved: 32
-  tag: flights
-  expires: 2019/12/09
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/597/679bc4ba_a82e_42cb_b66f_a216882c1152.jpg
-  link: https://www.secretescapes.de/pefki-deluxe-residences-chalkidiki-griechenland-de-1/sale-ihp
-
-- title: "Chalkidiki: Zwischen Strand & antiken Tempeln"
-  location: Ammon Zeus Luxury Beach Hotel, Kalithea, Chalkidiki, Griechenland
-  description: Maritimes Ambiente in Kallithea – inkl. Flügen, Transfers, Halbpension, 1 Flasche Wein & Extras
-  price: 399
-  price-description: pro Person basierend auf 2 Personen für 7 Nächte
-  saved: 25
-  tag: flights
-  expires: 2019/12/09
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/470/d7a3a7fd_a845_4426_9ccc_358af9c23724.jpg?auto=format,compress
-  link: https://www.secretescapes.de/ammon-zeus-chalkidiki-griechenland-de/sale-ihp
-
-- title: Athen & Inselhopping Kykladen
-  location: Rundreise, Griechenland
-  description: Die Schönheit Griechenlands von Athen nach Tinos, Syron & Serifos inkl. 10 Nächte in schnuckeligen Hotels, Frühstück, Transfers, Fährfahrten & Flügen!
-  price: 789
-  price-description: pro Person basierend auf 2 Personen für 10 Nächte
-  saved:
-  tag: config-flights
-  expires:
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105222/bb7d6667_60e3_4131_91ef_9aa135471fcf.jpg
-  link: https://de.sales.secretescapes.com/115270/athen-inselhopping-kykladen-de/
-
 - title: 5*-Luxusurlaub auf Rhodos
   location: Lindian Village, Lardos, Rhodos, Griechenland
-  description: Edle Suiten auf Rhodos – inkl. Flügen, Transfers & Halbpension
+  description: Edle Pool-Suiten auf Rhodos – inkl. Flügen, Transfers & Halbpension
   price: 599
   price-description: pro Person. basierend auf 2 Personen für 7 Nächte
   saved: 45
-  tag: flights
-  expires: 2019/12/23
+  expires: 2019/12/30
   image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/123/cd03b7c6_1e6b_4011_a3a2_eb4defaaa849.jpg?auto=format,compress
   link: https://www.secretescapes.de/lindian-village-lardos-greece-de-2/sale-ihp
+  tag: flights
+
+- title: Hideaway unter der griechischen Sonne
+  location: Miraggio Thermal Spa Resort, Chalkidiki, Griechenland
+  description: Mediterrane Atempause – inkl. Flügen, Transfers, Begrüßungsgetränk & Halbpension
+  price: 699
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
+  saved: 32
+  expires: 2019/12/30
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/32/248a9023_85fa_4a99_9a42_45d386b05102.jpg?auto=format,compress
+  link: https://www.secretescapes.de/miraggio-thermal-spa-rersort-chalkidiki-griechenland-de-1/sale-ihp
+  tag: flights
+
+- title: Wo Ihnen Athen zu Füßen liegt
+  location: Radisson Blu Park Hotel Athens, Athen, Griechenland
+  description: Athens Flair mit Dachpool – inkl. Flügen, Frühstück & Privattransfers
+  price: 219
+  price-description: pro Person. basierend auf 2 Personen für 2 Nächte
+  saved: 35
+  expires: 2019/12/30
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/1037/b2d330d9_23a6_4f6a_8ef7_4ddfb426ba75.jpg?auto=format,compress
+  link: https://www.secretescapes.de/radisson-blu-park-hotel-athens-athen-griechenland-de/sale-ihp
+  tag: flights
+
+- title: "Neueröffnung: Mittelmeer-Magie auf Korfu"
+  location: KAIRABA Mythos Hotel & Spa, Boukari, Korfu, Griechenland
+  description: Superior-Doppelzimmer mit Meerblick – inkl. Flügen, Transfers, Ultra-All-inclusive & Extras
+  price: 669
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
+  saved: 27
+  expires: 2019/12/23
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105992/f4090edc_98b0_4fee_a00a_fa11d34a4a84.jpg?auto=format,compress
+  link: https://www.secretescapes.de/mittelmeer-magie-auf-korfu-kairaba-mythos-palace-boukari-korfu-griechenland/sale
+  tag: flights
 
 - title: Resort-Auszeit an der Nordküste Kretas
   location: Giannoulis Cavo Spada Luxury Sports & Leisure Resort & Spa, Kreta, Griechenland
@@ -71,10 +48,53 @@
   price: 679
   price-description: pro Person. basierend auf 2 Personen für 7 Nächte
   saved: 18
-  tag: flights
   expires: 2019/12/23
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/99453/98c0d25e_d70b_4303_9069_1d1fd71fbb0a.jpg?auto=format,compress
   link: https://www.secretescapes.de/resort-auszeit-an-der-nordkueste-kretas-cavo-spada-luxury-sports-and-leisure-resort-and-spa-kreta-griechenland/sale
+  tag: flights
+
+- title: Luxusglück auf Korfu
+  location: Rodostamo Hotel & Spa, Korfu, Griechenland
+  description: Strand & Meer auf Korfu – inkl. Flügen, Rail&Fly, Transfers, Halbpension & Extras
+  price: 580
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
+  saved: 19
+  expires: 2020/01/13
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/99211/579559d9_f12e_4b46_8015_0610c3082fc1.jpg?auto=format,compress
+  link: https://www.secretescapes.de/luxusglueck-auf-korfu-rodostamo-hotel-and-spa-korfu-griechenland/sale
+  tag: flights
+
+- title: Zakynthos - Griechische Inselperle im Mittelmeer
+  location: Contessina Hotel, Tsilivì, Zakynthos, Griechenland
+  description: Moderner Komfort und Sonne satt - inkl. Flügen, Rail & Fly, Transfers, Halbpension & Extras
+  price: 615
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
+  saved: 55
+  expires: 2020/01/13
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/106757/f64398e5_6cd0_4a24_82ea_2f00aa98c411.jpg?auto=format,compress
+  link: https://www.secretescapes.de/griechische-inselperle-im-mittelmeer-contessina-hotel-tsilivi-zakynthos-griechenland-de-1-wrdpkg/sale
+  tag: flights
+
+- title: Entspannung im Adults-only Boutiquehotel auf Kreta
+  location: The Island, Kreta, Griechenland
+  description: Doppelzimmer mit Gemeinschaftspool – inkl. Flügen, Rail & Fly, Transfers & Halbpension
+  price: 649
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
+  saved: 21
+  expires: 2020/01/13
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/89081/42a9731e_12af_4155_b966_b7212004aae8.jpg?auto=format,compress
+  link: https://www.secretescapes.de/adults-only-entspannung-auf-kreta-the-island-kreta-griechenland-de-wrdpkg/sale
+  tag: flights
+
+- title: Verwöhn-Atmosphäre in Griechenland
+  location: Diana Group Hotels - Diana Palace, Argassi, Zakynthos, Griechenland
+  description: Ein Hauch von Luxus in Griechenland –  inkl. All-inclusive, Sekt & Begrüßungsgetränk
+  price: 99
+  price-description: pro Zimmer pro Nacht
+  saved: 58
+  expires: 2020/01/13
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/98364/b7c9be36_520f_4268_b291_fb0b5054e424.jpg?auto=format,compress
+  link: https://www.secretescapes.de/verwohn-atmosphaere-in-griechenland-diana-group-hotels-diana-palace-argassi-zakynthos-griechenland1/sale
 
 - title: Panoramablick auf das Ionische Meer
   location: Grecotel Eva Palace, Kommeno, Korfu, Griechenland
@@ -93,7 +113,7 @@
   price-description: pro Suite pro Nacht
   saved: 50
   expires: 2019/12/23
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/106758/f84eff40_2489_4b9a_9ab3_0a3ead96277e.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/57613/5ed191b4_56df_40fd_bfb2_81923bff9ab6.jpg?auto=format,compress
   link: https://www.secretescapes.de/schicke-suiten-an-kretas-nordkueste-creta-blue-boutique-hotel-and-suites-koutouloufari-kreta-griechenland/sale
 
 - title: Luxusverwöhnte Auszeit auf Kos
@@ -106,6 +126,16 @@
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/76466/da755c0d_892e_42bc_b654_a99aef77bdcb.jpg?auto=format,compress
   link: https://www.secretescapes.de/luxusverwohnte-auszeit-auf-kos-diamond-deluxe-hotel-kos-griechenland/sale
 
+- title: Wunderschöne Strandauszeit auf Chalkidiki
+  location: Alexander the Great Beach Hotel, Chalkidiki, Griechenland
+  description: Entspannter Badeurlaub zwischen Pool & Sandstrand – inkl. Zimmer-Upgrade & Halbpension
+  price: 63
+  price-description: pro Zimmer pro Nacht
+  saved: 62
+  expires: 2019/12/23
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101368/86ff6dcf_d089_4dd1_8886_858a0a59c7c3.jpg?auto=format,compress
+  link: https://www.secretescapes.de/wunderschone-strandauszeit-auf-chalkidiki-alexander-the-great-beach-hotel-chalkidiki-griechenland-1/sale
+
 - title: Verwöhntage auf der Trauminsel Kreta
   location: Ikaros Beach Luxury Resort & Spa, Malia, Kreta, Griechenland
   description: Luxus am Mittelmeer – inkl. All-inclusive, 1x Massage, Begrüßungsgetränk & Extras
@@ -115,80 +145,6 @@
   expires: 2019/12/23
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/99429/b3aed280_8af9_4cee_bb7b_2c163b0dafa0.jpg?auto=format,compress
   link: https://www.secretescapes.de/verwohntage-auf-der-trauminsel-kreta-ikaros-beach-luxury-resort-and-spa-malia-kreta-griechenland/sale
-
-- title: Mediterrane Eleganz auf Zypern
-  location: Grecian Park Hotel, Protaras, Zypern, Griechenland
-  description: Luxusurlaub zur Frühlingszeit auf Aphrodites Heimatinsel – inkl. Frühstück oder Halbpension
-  price: 78
-  price-description: pro Zimmer pro Nacht
-  saved: 53
-  expires: 2019/12/23
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/93423/cab2d283_03a8_4c5a_b15d_d32afafbb088.jpg?auto=format,compress
-  link: https://www.secretescapes.de/mediterrane-eleganz-auf-zypern-grecian-park-hotel-protaras-zypern-griechenland/sale
-
-- title: Hideaway unter der griechischen Sonne
-  location: Miraggio Thermal Spa Resort, Chalkidiki, Griechenland
-  description: Mediterrane Atempause – inkl. Flügen, Transfers, Begrüßungsgetränk & Halbpension
-  price: 699
-  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
-  saved: 32
-  tag: flights
-  expires: 2019/12/30
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/32/248a9023_85fa_4a99_9a42_45d386b05102.jpg?auto=format,compress
-  link: https://www.secretescapes.de/miraggio-thermal-spa-rersort-chalkidiki-griechenland-de-1/sale-ihp
-
-- title: Wo Ihnen Athen zu Füßen liegt
-  location: Radisson Blu Park Hotel Athens, Athen, Griechenland
-  description: Athens Flair mit Dachpool – inkl. Flügen, Frühstück & Privattransfers
-  price: 215
-  price-description: pro Person. basierend auf 2 Personen für 2 Nächte
-  saved: 35
-  tag: flights
-  expires: 2019/12/30
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/1037/b2d330d9_23a6_4f6a_8ef7_4ddfb426ba75.jpg?auto=format,compress
-  link: https://www.secretescapes.de/radisson-blu-park-hotel-athens-athen-griechenland-de/sale-ihp
-
-- title: Verwöhn-Atmosphäre in Griechenland
-  location: Diana Group Hotels - Diana Palace, Argassi, Zakynthos, Griechenland
-  description: Ein Hauch von Luxus in Griechenland –  inkl. All-inclusive, Sekt & Begrüßungsgetränk
-  price: 99
-  price-description: pro Zimmer pro Nacht
-  saved: 58
-  expires: 2020/01/13
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/98364/b7c9be36_520f_4268_b291_fb0b5054e424.jpg?auto=format,compress
-  link: https://www.secretescapes.de/verwohn-atmosphaere-in-griechenland-diana-group-hotels-diana-palace-argassi-zakynthos-griechenland1/sale
-
-- title: Luxusglück auf Korfu
-  location: Rodostamo Hotel & Spa, Korfu, Griechenland
-  description: Strand & Meer auf Korfu – inkl. Flügen, Rail&Fly, Transfers, Halbpension & Extras
-  price: 607
-  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
-  saved: 19
-  tag: flights
-  expires: 2020/01/13
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/99211/30656983_0b74_4736_8d86_5b4909c3be57.jpg?auto=format,compress
-  link: https://www.secretescapes.de/luxusglueck-auf-korfu-rodostamo-hotel-and-spa-korfu-griechenland/sale
-
-- title: Zakynthos - Griechische Inselperle im Mittelmeer
-  location: Contessina Hotel, Tsilivì, Zakynthos, Griechenland
-  description: Moderner Komfort und Sonne satt - inkl. Flügen, Rail & Fly, Transfers, Halbpension & Extras
-  price: 649
-  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
-  saved: 55
-  tag: flights
-  expires: 2020/01/13
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/106757/f64398e5_6cd0_4a24_82ea_2f00aa98c411.jpg?auto=format,compress
-  link: https://www.secretescapes.de/griechische-inselperle-im-mittelmeer-contessina-hotel-tsilivi-zakynthos-griechenland-de-1-wrdpkg/sale
-
-- title: Wunderschöne Strandauszeit auf Chalkidiki
-  location: Alexander the Great Beach Hotel, Chalkidiki, Griechenland
-  description: Entspannter Badeurlaub zwischen Pool & Sandstrand – inkl. Zimmer-Upgrade & Halbpension
-  price: 63
-  price-description: pro Zimmer pro Nacht
-  saved: 62
-  expires: 2019/12/23
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/97079/ab06da26_6ca2_40b5_b5b9_099811a70a30.jpg?auto=format,compress
-  link: https://www.secretescapes.de/wunderschone-strandauszeit-auf-chalkidiki-alexander-the-great-beach-hotel-chalkidiki-griechenland-1/sale
 
 - title: Kretische Träume im All-Inclusive-Resort
   location: Meli Palace All-Inclusive Resort, Sissi, Kreta, Griechenland
@@ -203,20 +159,56 @@
 - title: "Neueröffnung: Luxus in der Ägäis"
   location: Mythic Exclusive Retreat, Paros, Griechenland
   description: Spektakuläre Sonnenuntergänge auf Paros – inkl. Frühstück, Transfers & Begrüßungsgetränk
-  price: 156
-  price-description: pro Zimmer pro Nacht
-  saved: 54
+  price: 141
+  price-description: pro Unterkunft pro Nacht
+  saved: 59
   expires: 2020/01/13
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/107211/693f7225_2c74_489f_807c_a1f2bbf98651.jpg?auto=format,compress
   link: https://www.secretescapes.de/neueroffnung-luxus-in-der-agaeis-mythic-exclusive-retreat-paros-griechenland/sale
 
-- title: "Neueröffnung: Mittelmeer-Magie auf Korfu"
-  location: KAIRABA Mythos Hotel & Spa, Boukari, Korfu, Griechenland
-  description: Superior-Doppelzimmer mit Meerblick – inkl. Flügen, Transfers, Ultra-All-inclusive & Extras
-  price: 669
-  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
-  saved: 27
-  tag: flights
+- title: Griechischer Inselurlaub für Genießer
+  location: Porto Elounda Golf & Spa Resort, Elounda, Kreta, Griechenland
+  description: Meerblick-Zimmer – inkl. Halbpension & Extras
+  price: 169
+  price-description: pro Zimmer pro Nacht
+  saved: 44
+  expires: 2020/01/13
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/107340/c2831d65_72d1_48e1_ba19_03001a2aaf47.jpg?auto=format,compress
+  link: https://www.secretescapes.de/griechischer-inselurlaub-fuer-geniesser-porto-elounda-golf-and-spa-resort-elounda-kreta-griechenland-de/sale
+
+- title: Mediterrane Eleganz auf Zypern
+  location: Grecian Park Hotel, Protaras, Zypern, Griechenland
+  description: Luxusurlaub zur Frühlingszeit auf Aphrodites Heimatinsel – inkl. Frühstück oder Halbpension
+  price: 78
+  price-description: pro Zimmer pro Nacht
+  saved: 53
   expires: 2019/12/23
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105992/f4090edc_98b0_4fee_a00a_fa11d34a4a84.jpg?auto=format,compress
-  link: https://www.secretescapes.de/mittelmeer-magie-auf-korfu-kairaba-mythos-palace-boukari-korfu-griechenland/sale
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/93423/cab2d283_03a8_4c5a_b15d_d32afafbb088.jpg?auto=format,compress
+  link: https://www.secretescapes.de/mediterrane-eleganz-auf-zypern-grecian-park-hotel-protaras-zypern-griechenland/sale
+
+- title: Athen & Kykladen-Inselhüpfen im Paradies
+  location: Griechenland
+  description: Der Zauber Athens und der griechischen Kykladen - inkl. Hotel, Frühstück, alle Transfers, Fährfahrten und Flügen!
+  price: 809
+  price-description: pro Person ab basierend auf 2 Personen
+  image: https://travelbird-images.imgix.net/90/52/905258b3d10e0241e439eabd83a937a0?auto=compress&w=800
+  link: https://de.sales.secretescapes.com/114406/inselhuepfen-im-paradies-kykladen-de/
+  tag: config-flights
+
+- title: Fly & Drive Kreta mit Weinprobe
+  location: Griechenland
+  description: "Konfigurierbar - Kreta entdecken und schmecken: 4-Sterne-Hotels inkl. Weinprobe, Frühstück & Flügen"
+  price: 459
+  price-description: pro Person ab basierend auf 2 Personen
+  image: https://travelbird-images.imgix.net/48/c8/48c889d6796c343674b7c50e6c98e029?auto=compress&w=800
+  link: https://de.sales.secretescapes.com/115247/fly-drive-kreta-mit-weinbrobe-de/
+  tag: config-flights
+
+- title: Athen & Inselhopping Kykladen
+  location: Griechenland
+  description: Die Schönheit Griechenlands von Athen nach Tinos, Syron & Serifos inkl. 10 Nächte in schnuckeligen Hotels, Frühstück, Transfers, Fährfahrten & Flügen!
+  price: 799
+  price-description: pro Person ab basierend auf 2 Personen
+  image: https://travelbird-images.imgix.net/68/27/6827ed518f7e4c4c1d2cd885e6b8735c?auto=compress&w=800
+  link: https://de.sales.secretescapes.com/115270/athen-inselhopping-kykladen-de/
+  tag: config-flights
